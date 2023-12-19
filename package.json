@@ -1,0 +1,42 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1506.0",
+    "bcrypt": "^5.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "luxon": "^3.4.4",
+    "mongoose": "^8.0.1",
+    "netlify-cli": "^17.8.1",
+    "nodemailer": "^6.9.7",
+    "typescript": "^5.3.2"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^2.4.0",
+    "@types/bcrypt": "^5.0.2",
+    "@types/jsonwebtoken": "^9.0.5",
+    "@types/luxon": "^3.3.5",
+    "@types/node": "^20.10.0",
+    "@types/nodemailer": "^6.4.14",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "dotenv": "^16.3.1",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleanV/backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleanV/backend/issues"
+  },
+  "homepage": "https://github.com/CleanV/backend#readme"
+}
